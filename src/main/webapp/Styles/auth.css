@@ -1,0 +1,35 @@
+body {
+    background-color: #82aff5;
+}
+
+.card {
+    max-width: 400px;
+    margin-top: 30px;
+    background-color: #b9dbf9;
+    color: black;
+}
+
+.btn {
+    background-color: #7fbcf0;
+    border: 1px solid black;
+}
+.btn:hover {
+    background-color: #b9dbf9;
+    border: 1px solid black;
+}
+
+#locale-changer {
+    background-color: inherit;
+    display: flex;
+    justify-content: flex-end;
+    border: none;
+}
+
+#locale-changer input {
+    border-radius: 50px;
+}
+
+#locale-changer input:hover {
+    background-color: white;
+    border-color: black;
+}

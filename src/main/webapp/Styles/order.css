@@ -1,0 +1,38 @@
+body{
+    background-color: #A5C3CF;
+}
+.card{
+    border-radius: 20px !important;
+    margin-top: 30px;
+    background-color: #87e55c;
+    color: black;
+}
+#locale-changer{
+    background-color: inherit;
+    display: flex;
+    justify-content: flex-end;
+    border:none;
+}
+#locale-changer input{
+    border-radius: 50px;
+}
+#locale-changer input:hover{
+    background-color: gray;
+    border-color:black;
+}
+.col-sm-6{
+    max-width: 500px;
+}
+#submit_btn{
+    align-items: center;
+    margin-top: 20px;
+}
+.passport_form{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    flex-direction: column;
+}
+h4{
+    padding-top:10px;
+}

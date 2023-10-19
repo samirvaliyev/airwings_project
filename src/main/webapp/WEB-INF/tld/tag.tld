@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<taglib version="2.1" xmlns="http://java.sun.com/xml/ns/javaee">
+    <tlib-version>1.0</tlib-version>
+    <short-name>ctg</short-name>
+    <uri>customtags</uri>
+    <tag>
+        <name>sloganTag</name>
+        <tag-class>com.example.epamfinalproject.Utility.Tag</tag-class>
+        <body-content>empty</body-content>
+    </tag>
+</taglib>
