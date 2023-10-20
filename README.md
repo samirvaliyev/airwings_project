@@ -9,11 +9,9 @@ This is the official website for airwingsflight
 - Access the website at http://localhost:8080/airplane
 - Access the admin panel at http://localhost:8080/airplane/Admin/adminAccount.jsp
 
-
-### Database diagram
-![db-diagram.png](db/db-diagram.png)
-<br><br><br>
-
 ### Air Wings Flight
 ![front-design/index.png](front-design/index.png)
-<br><br><br>
+<br>
+### Database diagram
+![db-diagram.png](db/db-diagram.png)
+
